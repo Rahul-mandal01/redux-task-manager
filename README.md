@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📝 Redux Task Manager
 
 A simple and intuitive Task Manager built with **React** and **Redux Toolkit**. You can add and remove tasks, and your task list is saved in **localStorage** so it persists even after refreshing the page.
@@ -18,7 +18,9 @@ A simple and intuitive Task Manager built with **React** and **Redux Toolkit**. 
 
 ## 📁 Folder Structure
 
-```
+
+
+```markdown
 redux-task-manager/
 ├── public/
 ├── src/
@@ -37,6 +39,7 @@ redux-task-manager/
 ├── vite.config.js
 └── README.md
 ```
+
 
 ---
 
@@ -90,7 +93,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙌 Credits
 
 Made with ❤️ by Rahul and guided by real-world analogies to simplify learning Redux.
-
-```
-
----
