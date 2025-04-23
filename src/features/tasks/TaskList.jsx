@@ -11,7 +11,6 @@ const TaskList = () => {
           <span>{task}</span>
           <button
             onClick={() => dispatch(removeTask(index))}
-            className="text-red-500"
           >
             Remove
           </button>
