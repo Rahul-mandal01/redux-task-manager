@@ -26,7 +26,7 @@ const AddTaskForm = () => {
         type="submit"
         className="bg-blue-500 text-white px-3 py-2 ml-5 rounded"
       >
-        Add Task Show
+        Add Task
       </button>
     </form>
   );
